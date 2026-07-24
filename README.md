@@ -26,7 +26,7 @@
 
 ### ⋆ ˚｡⋆୨୧˚ &nbsp; buddy &nbsp; ˚୨୧⋆｡˚ ⋆
 
-<img src="https://raw.githubusercontent.com/pomurain/pomurain/assets/gif/claude-code.svg" width="80" alt="" />
+<img src="https://raw.githubusercontent.com/pomurain/pomurain/assets/gif/claude-code.svg" width="120" alt="" />
 
 <sub>this is my buddy claude code</sub>
 
