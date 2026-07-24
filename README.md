@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pomurain/pomurain/assets/gif/aemeath.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/pomurain/pomurain/assets/gif/banner.svg" width="100%" alt="" />
 
 <br>
 
