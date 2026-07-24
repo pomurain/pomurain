@@ -24,20 +24,11 @@
 
 <div align="center">
 
-### ⋆ ˚｡⋆୨୧˚ &nbsp; signals &nbsp; ˚୨୧⋆｡˚ ⋆
+### ⋆ ˚｡⋆୨୧˚ &nbsp; buddy &nbsp; ˚୨୧⋆｡˚ ⋆
 
-<img src="https://github-readme-stats.vercel.app/api?username=pomurain&show_icons=true&hide_border=true&bg_color=00000000&title_color=8C7AA9&text_color=A8B5C0&icon_color=6FA8A0" height="150" alt="" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomurain&layout=compact&hide_border=true&bg_color=00000000&title_color=8C7AA9&text_color=A8B5C0" height="150" alt="" />
+<img src="https://raw.githubusercontent.com/pomurain/pomurain/assets/gif/claude-code.svg" width="80" alt="" />
 
-</div>
-
----
-
-<div align="center">
-
-### ⋆ ˚｡⋆୨୧˚ &nbsp; drift &nbsp; ˚୨୧⋆｡˚ ⋆
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pomurain&bg_color=00000000&color=8C7AA9&line=6FA8A0&point=D4C5A9&area=true&hide_border=true" width="95%" alt="" />
+<sub>this is my buddy claude code</sub>
 
 </div>
 
