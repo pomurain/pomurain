@@ -114,7 +114,7 @@
       </ellipse>
     </g>
 
-    <!-- 8-bit cat mascot: typing / jumping jacks / stretching -->
+    <!-- 8-bit cat: activity + matching expression -->
     <g>
       <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="3.2s" repeatCount="indefinite"/>
       <ellipse cx="144" cy="326" rx="52" ry="8" fill="#C6BFB0" opacity=".35"/>
@@ -152,13 +152,13 @@
           <rect x="174" y="254" width="6" height="6" fill="#E08A5E"/>
           <rect x="108" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="114" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="120" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="126" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="120" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="126" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="132" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="138" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="144" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="150" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="156" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="150" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="156" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="162" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="168" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="174" y="260" width="6" height="6" fill="#E08A5E"/>
@@ -279,13 +279,13 @@
           <rect x="174" y="254" width="6" height="6" fill="#E08A5E"/>
           <rect x="108" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="114" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="120" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="126" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="120" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="126" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="132" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="138" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="144" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="150" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="156" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="150" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="156" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="162" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="168" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="174" y="260" width="6" height="6" fill="#E08A5E"/>
@@ -374,6 +374,22 @@
           <rect x="156" y="308" width="6" height="6" fill="#8E96A8"/>
           <rect x="162" y="308" width="6" height="6" fill="#8E96A8"/>
         </g>
+        <g>
+          <rect x="120" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="126" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="156" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="162" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="138" y="272" width="6" height="6" fill="#3A3350"/>
+          <rect x="144" y="272" width="6" height="6" fill="#3A3350"/>
+          <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.965;0.98;1" dur="5s" calcMode="discrete" repeatCount="indefinite"/>
+        </g>
+        <g opacity="0">
+          <rect x="120" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="126" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="156" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="162" y="266" width="6" height="6" fill="#3A3350"/>
+          <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.965;0.98;1" dur="5s" calcMode="discrete" repeatCount="indefinite"/>
+        </g>
       </g>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3333;0.3333;0.6667;0.6667;1.0000" dur="13.5s" calcMode="discrete" repeatCount="indefinite"/>
@@ -409,13 +425,13 @@
           <rect x="174" y="254" width="6" height="6" fill="#E08A5E"/>
           <rect x="108" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="114" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="120" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="126" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="120" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="126" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="132" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="138" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="144" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="150" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="156" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="150" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="156" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="162" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="168" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="174" y="260" width="6" height="6" fill="#E08A5E"/>
@@ -533,13 +549,13 @@
           <rect x="174" y="254" width="6" height="6" fill="#E08A5E"/>
           <rect x="108" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="114" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="120" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="126" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="120" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="126" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="132" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="138" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="144" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="150" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="156" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="150" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="156" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="162" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="168" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="174" y="260" width="6" height="6" fill="#E08A5E"/>
@@ -623,6 +639,26 @@
           <rect x="150" y="308" width="6" height="6" fill="#E08A5E"/>
           <rect x="156" y="308" width="6" height="6" fill="#E08A5E"/>
         </g>
+        <g>
+          <rect x="120" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="126" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="132" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="150" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="156" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="162" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="138" y="272" width="6" height="6" fill="#3A3350"/>
+          <rect x="144" y="272" width="6" height="6" fill="#3A3350"/>
+          <rect x="138" y="278" width="6" height="6" fill="#3A3350"/>
+          <rect x="144" y="278" width="6" height="6" fill="#3A3350"/>
+          <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.965;0.98;1" dur="5s" calcMode="discrete" repeatCount="indefinite"/>
+        </g>
+        <g opacity="0">
+          <rect x="120" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="126" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="156" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="162" y="266" width="6" height="6" fill="#3A3350"/>
+          <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.965;0.98;1" dur="5s" calcMode="discrete" repeatCount="indefinite"/>
+        </g>
       </g>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6667;0.6667;1.0000;1.0000;1.0000" dur="13.5s" calcMode="discrete" repeatCount="indefinite"/>
@@ -658,13 +694,13 @@
           <rect x="174" y="254" width="6" height="6" fill="#E08A5E"/>
           <rect x="108" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="114" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="120" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="126" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="120" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="126" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="132" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="138" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="144" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="150" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="156" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="150" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="156" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="162" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="168" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="174" y="260" width="6" height="6" fill="#E08A5E"/>
@@ -790,13 +826,13 @@
           <rect x="174" y="254" width="6" height="6" fill="#E08A5E"/>
           <rect x="108" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="114" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="120" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="126" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="120" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="126" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="132" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="138" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="144" y="260" width="6" height="6" fill="#E08A5E"/>
-          <rect x="150" y="260" width="6" height="6" fill="#3A3350"/>
-          <rect x="156" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="150" y="260" width="6" height="6" fill="#E08A5E"/>
+          <rect x="156" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="162" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="168" y="260" width="6" height="6" fill="#E08A5E"/>
           <rect x="174" y="260" width="6" height="6" fill="#E08A5E"/>
@@ -890,6 +926,30 @@
           <rect x="156" y="314" width="6" height="6" fill="#E08A5E"/>
           <rect x="162" y="314" width="6" height="6" fill="#E08A5E"/>
           <rect x="168" y="314" width="6" height="6" fill="#E08A5E"/>
+        </g>
+        <g>
+          <rect x="120" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="126" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="120" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="126" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="156" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="162" y="260" width="6" height="6" fill="#3A3350"/>
+          <rect x="156" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="162" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="138" y="272" width="6" height="6" fill="#3A3350"/>
+          <rect x="144" y="272" width="6" height="6" fill="#3A3350"/>
+          <rect x="102" y="254" width="6" height="6" fill="#F6C98A"/>
+          <rect x="180" y="254" width="6" height="6" fill="#F6C98A"/>
+          <rect x="96" y="260" width="6" height="6" fill="#F6C98A"/>
+          <rect x="186" y="260" width="6" height="6" fill="#F6C98A"/>
+          <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.965;0.98;1" dur="5s" calcMode="discrete" repeatCount="indefinite"/>
+        </g>
+        <g opacity="0">
+          <rect x="120" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="126" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="156" y="266" width="6" height="6" fill="#3A3350"/>
+          <rect x="162" y="266" width="6" height="6" fill="#3A3350"/>
+          <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.965;0.98;1" dur="5s" calcMode="discrete" repeatCount="indefinite"/>
         </g>
       </g>
     </g>
